@@ -8,6 +8,7 @@ I do not include jobs that are
 - too junior
 - related to AI, LLM, ML, unless it's relevant to science
 - uninteresting to me
+- on quantum computing since there are many jobs. You would know where to look if your phd is on QC. There is no need to check them if your phd is not on QC.
 
 ## about you
 You need to know programming quite well.
