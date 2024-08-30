@@ -10,6 +10,8 @@ I do not include jobs that are
 - uninteresting to me
 - on quantum computing since there are many jobs. You would know where to look if your phd is on QC. There is no need to check them if your phd is not on QC.
 
+PR is welcome.
+
 ## about you
 You need to know programming quite well.
 As for languages, python, C, and C++ are most popular.
