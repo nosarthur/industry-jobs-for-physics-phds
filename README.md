@@ -2,7 +2,7 @@
 
 These are hand-picked jobs for physics phds seeking industry opportunities.
 
-I do not include jobs that are
+I do NOT include jobs that are
 
 - completely unrelated to science
 - too junior
